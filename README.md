@@ -23,6 +23,11 @@
 - [ ] Tent
 - [ ] caribeener
 - [ ] air mattress
+- [ ] Sleeping Bag
+- [ ] Toiletries
+- [ ] headlamp
+- [ ] swiss army knife
+
 
 #### Fun
 - [ ] camera
@@ -30,6 +35,7 @@
 - [ ] notebook
 - [ ] Hand sanitizer 
 - [ ] small notebook
+- [ ] pen
 
 #### Burning Man Specific
 - [ ] cup
@@ -40,10 +46,15 @@
 - [ ] Gloves. hands got destroyed by the playa
 - [ ] goggles
 - [ ] funny clothes
+- [ ] Ticket
+- [ ] watch
 
+#### Miscellaneous
+- [ ] Phone charger
+- [ ] Pack a clean bag of clothes in a ziplock bag for ride back
+- [ ] quick bag of clothes for night on the way in
 
 ## Group
-
 
 #### Weird Burning Man Necessities
 - [ ] Baby wipes, lots of them
