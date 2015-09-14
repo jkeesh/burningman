@@ -12,6 +12,7 @@
 - [ ] sandals
 - [ ] raingear
 - [ ] sweatshirt/jacket
+- [ ] boots
 
 #### Camping
 - [ ] Flashlight
@@ -37,13 +38,15 @@
 - [ ] bike. may want a better bike and bike seat
 - [ ] bike tools
 - [ ] Gloves. hands got destroyed by the playa
+- [ ] goggles
+- [ ] funny clothes
 
 
 ## Group
 
 
 #### Weird Burning Man Necessities
-- [ ] Baby wipes
+- [ ] Baby wipes, lots of them
 - [ ] Lights, EL wire
 - [ ] Vinegar
 - [ ] Aloe vera
@@ -58,7 +61,10 @@
 - [ ] Toilet paper
 - [ ] Closed container to organize things, keep them dust-free
 - [ ] Rope, thin rope
-
+- [ ] throat lozenges
+- [ ] plastic tablecloths
+- [ ] Gatorades
+- [ ] jambox speakers
 
 #### Group Camping
 - [ ] Garbage Bags
@@ -81,12 +87,15 @@
 #### Shade Structure
 - [ ] Monkey Hut
 - [ ] Enclosed shade structure for dust storms
-- 
 
 #### Food
 - [ ] Trail Mix
 - [ ] Pickles
 - [ ] Fruits and Veggies
+- [ ] Ramen
+- [ ] Tabasco
+- [ ] gum?
+- [ ] dates
 
 ## Gift Thing and Ideas
 
@@ -102,9 +111,14 @@
 #### 2016 ideas
 - [ ] snocones
 - [ ] booth of some sort
+- [ ] bracelet with notebook and pen
+- [ ] customized fortune cookies
 
 ## Tips and Ideas
 
 - [ ] Want a tent you can stand up in
 - [ ] Orient shade properly with respect to the wind
 - [ ] should you bring an RV?
+- [ ] should you build a yurt?
+- [ ] evaporation pond?
+- [ ] steampunk? goggles? top hat?
