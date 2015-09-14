@@ -3,8 +3,10 @@
 ## Group
 
 
-- [ ] Water
-- 
-
 
 ## Individual
+
+
+- [ ] Water
+- [X] Thing
+- [ ] thing2
