@@ -2,6 +2,33 @@
 
 ## Individual
 
+- [ ] shirts
+- [ ] spork
+- [ ] boxers/underwear
+- [ ] socks
+- [ ] pants
+- [ ] towel
+- [ ] shoes
+- [ ] sandals
+- [ ] raingear
+- [ ] sweatshirt/jacket
+- [ ] Flashlight
+- [ ] triple A
+- [ ] water bottle
+- [ ] camelback
+- [ ] camera
+- [ ] caribeener
+- [ ] juggling clubs
+- [ ] ear plugs
+- [ ] notebook
+- [ ] Tent
+- [ ] print burner map
+- [ ] notebook
+- [ ] bike
+- [ ] bike tools
+- [ ] air matterss
+- [ ] Hand sanitizer 
+- [ ] cup
 
 
 ## Group
