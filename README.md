@@ -13,7 +13,7 @@
 - [ ] raingear
 - [ ] sweatshirt/jacket
 
-### Camping
+#### Camping
 - [ ] Flashlight
 - [ ] triple A
 - [ ] spork
@@ -23,13 +23,13 @@
 - [ ] caribeener
 - [ ] air mattress
 
-### Fun
+#### Fun
 - [ ] camera
 - [ ] juggling clubs
 - [ ] notebook
 - [ ] Hand sanitizer 
 
-### Burning Man Specific
+#### Burning Man Specific
 - [ ] cup
 - [ ] print burner map
 - [ ] ear plugs
@@ -39,32 +39,41 @@
 
 ## Group
 
+
+#### Weird Burning Man Necessities
+- [ ] Baby wipes
+- [ ] Lights, EL wire
+- [ ] Vinegar
+- [ ] Aloe vera
+- [ ] Rebar
+
+#### Group Utilities
+- [ ] Duct Tape
+- [ ] Sunscreen
+- [ ] Toilet paper
+
+#### Group Camping
 - [ ] Garbage Bags
 - [ ] First Aid Kit
 - [ ] Paper Towels
-- [ ] Duct Tape
 - [ ] Chairs
 - [ ] Tarps
-- [ ] Sunscreen
-- [ ] Toilet paper
-- [ ] Rebar
 - [ ] Coolers
 - [ ] Folding table
-- [ ] Baby wipes
 - [ ] Portable cooking stove
-- [ ] Lights, EL wire
 - [ ] Propane tank
-- [ ] Vinegar
-- [ ] Aloe vera
 - [ ] Generator
-- [ ] Gift thing
-- [ ] Monkey Hut
-- [ ] Swiss army knife
 - [ ] Cleaning wipes
 - [ ] Pots or pans
-- [ ] Food
-- [ ] Water
-- [ ] shade thing
+- [ ] Swiss army knife
+
+#### Shade Structure
+- [ ] Monkey Hut
+
+#### Food
+- [ ] Trail Mix
+
+#### Gift Thing
 - [ ] ice machine
 - [ ] sno cone machine
 - [ ] popcorn maker
