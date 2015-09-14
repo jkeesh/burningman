@@ -2,8 +2,8 @@
 
 ## Individual
 
+#### Clothes
 - [ ] shirts
-- [ ] spork
 - [ ] boxers/underwear
 - [ ] socks
 - [ ] pants
@@ -12,23 +12,29 @@
 - [ ] sandals
 - [ ] raingear
 - [ ] sweatshirt/jacket
+
+### Camping
 - [ ] Flashlight
 - [ ] triple A
+- [ ] spork
 - [ ] water bottle
 - [ ] camelback
-- [ ] camera
-- [ ] caribeener
-- [ ] juggling clubs
-- [ ] ear plugs
-- [ ] notebook
 - [ ] Tent
-- [ ] print burner map
+- [ ] caribeener
+- [ ] air mattress
+
+### Fun
+- [ ] camera
+- [ ] juggling clubs
 - [ ] notebook
+- [ ] Hand sanitizer 
+
+### Burning Man Specific
+- [ ] cup
+- [ ] print burner map
+- [ ] ear plugs
 - [ ] bike
 - [ ] bike tools
-- [ ] air matterss
-- [ ] Hand sanitizer 
-- [ ] cup
 
 
 ## Group
