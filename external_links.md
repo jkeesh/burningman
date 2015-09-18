@@ -3,3 +3,6 @@ https://docs.google.com/document/d/1mlR6ypei3xstnMD61d93XntkUj4s6ixfiskyywohQ84/
 
 International attendees build complete camp in 4 days
 https://www.reddit.com/r/BurningMan/comments/3lag0u/people_said_we_were_mad_maybe_they_were_right/
+
+What is the best burning man shade structure?
+https://www.quora.com/What-is-the-best-Burning-Man-shade-structure?share=1
