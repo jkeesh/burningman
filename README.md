@@ -119,12 +119,6 @@
 - [ ] sno cone machine
 - [ ] popcorn maker
 
-#### 2016 ideas
-- [ ] snocones
-- [ ] booth of some sort
-- [ ] bracelet with notebook and pen
-- [ ] customized fortune cookies
-
 ## Tips and Ideas
 
 - [ ] Want a tent you can stand up in
